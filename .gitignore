@@ -2,3 +2,5 @@
 dist/
 /scored-index.json
 *.exe
+
+.env
